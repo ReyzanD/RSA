@@ -1,3 +1,0 @@
-- [x] Modify hide_message_in_image in steganography.py to append '###' terminator to the base64 message
-- [x] Modify extract_message_from_image in steganography.py to truncate the extracted string at '###'
-- [x] Test the decryption functionality to ensure the error is resolved
